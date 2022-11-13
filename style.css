@@ -10,3 +10,15 @@ p {
   color: violet;
   
 }
+.three {
+  display: flex;
+  justify-content: space-around;
+  
+}
+.three img {
+  max-width: 300px;
+}
+.three p {
+  color: tan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
