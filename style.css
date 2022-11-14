@@ -22,3 +22,12 @@ p {
   color: tan;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.Olya h1,p {
+  color: tomato;
+}
+.Asan h1,p {
+  color: tomato;
+}
+.ivan h1,p {
+  color: tomato;
+}
